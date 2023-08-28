@@ -1,0 +1,5 @@
+Super bomberman 4 (<iframe src="https://www.retrogames.cc/embed/19846-super-bomberman-4-english-translated.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>)
+UMK (<iframe src="https://www.retrogames.cc/embed/44315-ultimate-mortal-kombat-3-deluxe.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>)
+Super mario world (<iframe src="https://www.retrogames.cc/embed/44986-super-mario-world.html" width="600" height="450" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>)
+
+site/creditos (https://www.retrogames.cc/)
